@@ -1,0 +1,19 @@
+body{background-image: url(/imag1.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+h1{color: brown;
+
+}
+h2{
+    color: brown;
+}
+h4{background: brown;color: yellow;
+
+}
+
+table{border-collapse: collapse;background-image: url(/imag1.jfif);
+
+}
